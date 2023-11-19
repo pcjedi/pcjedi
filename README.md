@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
 [Lightsaber icons created by Nhor Phai - Flaticon](https://www.flaticon.com/free-icons/lightsaber "lightsaber icons")
+
+Check out my [GitHub Page](https://pcjedi.github.io) hosted on [GitHub](https://github.com/pcjedi/pcjedi.github.io)
 
 
 <!--
